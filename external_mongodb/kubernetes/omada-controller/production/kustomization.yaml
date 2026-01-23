@@ -6,7 +6,7 @@ namespace: omada-controller
 
 images:
 - name: mbentley/omada-controller
-  newTag: "5.15"
+  newTag: "6.1"
 
 resources:
   - ../base
